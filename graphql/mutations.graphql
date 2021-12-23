@@ -1,0 +1,157 @@
+# this is an auto generated file. This will be overwritten
+mutation CreatePost(
+  $input: CreatePostInput!
+  $condition: ModelPostConditionInput
+) {
+  createPost(input: $input, condition: $condition) {
+    id
+    imageKey
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation UpdatePost(
+  $input: UpdatePostInput!
+  $condition: ModelPostConditionInput
+) {
+  updatePost(input: $input, condition: $condition) {
+    id
+    imageKey
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation DeletePost(
+  $input: DeletePostInput!
+  $condition: ModelPostConditionInput
+) {
+  deletePost(input: $input, condition: $condition) {
+    id
+    imageKey
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation CreateBasketballStats(
+  $input: CreateBasketballStatsInput!
+  $condition: ModelBasketballStatsConditionInput
+) {
+  createBasketballStats(input: $input, condition: $condition) {
+    id
+    points
+    rebounds
+    assists
+    steals
+    blocks
+    dunks
+    fadeAways
+    bankShots
+    gameWinners
+    gamesWon
+    gamesLost
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation UpdateBasketballStats(
+  $input: UpdateBasketballStatsInput!
+  $condition: ModelBasketballStatsConditionInput
+) {
+  updateBasketballStats(input: $input, condition: $condition) {
+    id
+    points
+    rebounds
+    assists
+    steals
+    blocks
+    dunks
+    fadeAways
+    bankShots
+    gameWinners
+    gamesWon
+    gamesLost
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation DeleteBasketballStats(
+  $input: DeleteBasketballStatsInput!
+  $condition: ModelBasketballStatsConditionInput
+) {
+  deleteBasketballStats(input: $input, condition: $condition) {
+    id
+    points
+    rebounds
+    assists
+    steals
+    blocks
+    dunks
+    fadeAways
+    bankShots
+    gameWinners
+    gamesWon
+    gamesLost
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation CreateStats(
+  $input: CreateStatsInput!
+  $condition: ModelStatsConditionInput
+) {
+  createStats(input: $input, condition: $condition) {
+    id
+    points
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation UpdateStats(
+  $input: UpdateStatsInput!
+  $condition: ModelStatsConditionInput
+) {
+  updateStats(input: $input, condition: $condition) {
+    id
+    points
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation DeleteStats(
+  $input: DeleteStatsInput!
+  $condition: ModelStatsConditionInput
+) {
+  deleteStats(input: $input, condition: $condition) {
+    id
+    points
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}

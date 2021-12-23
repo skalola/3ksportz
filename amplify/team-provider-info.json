@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sportz3k-dev-220918-authRole",
+      "UnauthRoleArn": "arn:aws:iam::146919332821:role/amplify-sportz3k-dev-220918-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::146919332821:role/amplify-sportz3k-dev-220918-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-sportz3k-dev-220918-deployment",
+      "UnauthRoleName": "amplify-sportz3k-dev-220918-unauthRole",
+      "StackName": "amplify-sportz3k-dev-220918",
+      "StackId": "arn:aws:cloudformation:us-east-1:146919332821:stack/amplify-sportz3k-dev-220918/49aa6dc0-0937-11ec-984f-0e4f19f4771b",
+      "AmplifyAppId": "dtu4hkdy8lo9d"
+    },
+    "categories": {
+      "auth": {
+        "sportz3k11126f8e": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+type Post @model {
+  id: ID!
+  imageKey: String!
+}
+
+type Stats @model {
+  id: ID!
+  points: Float!
+}
