@@ -1,8 +1,8 @@
 # 3KSPORTZ
-A real world card trading game for athletes world wide.
+A real world card trading game for athletes world wide for iOS built with Swift.
 
-# Discuss
-Contact us at 3ksportz@gmail.com if you want to get involved, have questions or want to chat.
+# Join the project
+Contact us at 3ksportz@gmail.com if you're an athlete/engineer interested in building a sports metaverse.
 
 # Dependencies
 3KSPORTZ uses Cocoa Pods to run Amazon Amplify for authentication and datastorage. 
