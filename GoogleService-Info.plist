@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>499590726178-5na07d0vkti7qireuvdpng50ei1ib7ak.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.499590726178-5na07d0vkti7qireuvdpng50ei1ib7ak</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwgzU1f1HDyNJFFOD7A5OSuYdC_QDpTDE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>499590726178</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sportz3k.sportz3k</string>
+	<key>PROJECT_ID</key>
+	<string>sportz3k-f800f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sportz3k-f800f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:499590726178:ios:d8ef81d6635122d14c407b</string>
+</dict>
+</plist>
